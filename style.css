@@ -1,0 +1,35 @@
+#main-picture{
+
+	/*margin-left:auto;
+	margin-right:auto;
+	display:block;*/
+	width:300px;
+	height:110px;
+
+}
+#pic-container{
+	width:300px;
+	height:110px;
+	margin-top:200;
+	position:relative;
+}
+#top-bar{
+	height:29px;
+	background-color:white;
+	width:100%;
+	position:relative;
+
+}
+li {
+	display: inline;
+	text-align: right;
+	float:right;
+	padding:0px 5px 0px 5px;
+}
+a {
+	text-decoration: none;
+}
+input{
+	width:600px;
+	height:5%;
+}
